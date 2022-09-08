@@ -1,3 +1,4 @@
+![MasterHead](https://d-line.biz/pictures/articles/articles_thumbnail_zz0HmWebi5.jpg)
 <h1 align="center">Hi 👋, I'm Suraj Dhas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
